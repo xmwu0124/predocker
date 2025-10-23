@@ -3,6 +3,8 @@
 import { useState } from 'react'
 import { FileText, Upload, CheckCircle, XCircle, Sparkles } from 'lucide-react'
 
+const API_URL = process.env.NEXT_PUBLIC_API_URL || 'https://web-production-fa91.up.railway.app'
+
 export default function DocumentsView({ onAnalysisComplete }: { onAnalysisComplete: (jobIds: number[]) => void }) {
   const [uploading, setUploading] = useState(false)
   const [analyzing, setAnalyzing] = useState(false)
@@ -20,13 +22,14 @@ export default function DocumentsView({ onAnalysisComplete }: { onAnalysisComple
     }
 
     setUploading(true)
+    setAnalyzing(true)
     setError('')
 
     const formData = new FormData()
     formData.append('cv', file)
 
     try {
-      const response = await fetch('/api/cv/upload', {
+      const response = await fetch(`${API_URL}/api/analyze`, {
         method: 'POST',
         body: formData
       })
@@ -34,36 +37,18 @@ export default function DocumentsView({ onAnalysisComplete }: { onAnalysisComple
       const data = await response.json()
 
       if (response.ok) {
-        setCvInfo(data)
-        analyzeCV(data.filename)
-      } else {
-        setError(data.error || 'Upload failed')
-      }
-    } catch (err) {
-      setError('Upload failed')
-    } finally {
-      setUploading(false)
-    }
-  }
-
-  const analyzeCV = async (filename: string) => {
-    setAnalyzing(true)
-    try {
-      const response = await fetch('/api/cv/analyze', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ filename })
-      })
-
-      const data = await response.json()
-      if (response.ok) {
+        setCvInfo({ filename: file.name })
         setAnalysis(data)
         const jobIds = data.matched_jobs?.map((j: any) => j.id) || []
         onAnalysisComplete(jobIds)
+      } else {
+        setError(data.error || 'Analysis failed')
       }
     } catch (err) {
-      console.error('Analysis failed:', err)
+      setError('Failed to connect to analysis service')
+      console.error(err)
     } finally {
+      setUploading(false)
       setAnalyzing(false)
     }
   }
@@ -103,11 +88,11 @@ export default function DocumentsView({ onAnalysisComplete }: { onAnalysisComple
             </div>
           )}
 
-          {cvInfo && !analyzing && (
+          {cvInfo && !analyzing && analysis && (
             <div className="mt-4 p-4 bg-green-50 border border-green-200 rounded-lg">
               <div className="flex items-center gap-3">
                 <CheckCircle className="h-5 w-5 text-green-600" />
-                <p className="font-medium text-green-900">Uploaded: {cvInfo.filename}</p>
+                <p className="font-medium text-green-900">Analyzed: {cvInfo.filename}</p>
               </div>
             </div>
           )}
@@ -129,18 +114,18 @@ export default function DocumentsView({ onAnalysisComplete }: { onAnalysisComple
             <div className="p-4 bg-blue-50 rounded-lg">
               <p className="text-sm text-blue-600 font-medium mb-2">Research Fields</p>
               <div className="flex flex-wrap gap-2">
-                {analysis.keywords?.fields?.map((f: string, i: number) => (
+                {analysis.keywords?.fields?.length > 0 ? analysis.keywords.fields.map((f: string, i: number) => (
                   <span key={i} className="px-2 py-1 bg-blue-100 text-blue-700 text-xs rounded">{f}</span>
-                ))}
+                )) : <span className="text-xs text-gray-500">None detected</span>}
               </div>
             </div>
             
             <div className="p-4 bg-purple-50 rounded-lg">
               <p className="text-sm text-purple-600 font-medium mb-2">Technical Skills</p>
               <div className="flex flex-wrap gap-2">
-                {analysis.keywords?.skills?.map((s: string, i: number) => (
+                {analysis.keywords?.skills?.length > 0 ? analysis.keywords.skills.map((s: string, i: number) => (
                   <span key={i} className="px-2 py-1 bg-purple-100 text-purple-700 text-xs rounded">{s}</span>
-                ))}
+                )) : <span className="text-xs text-gray-500">None detected</span>}
               </div>
             </div>
           </div>
