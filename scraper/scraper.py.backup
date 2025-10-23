@@ -1,0 +1,139 @@
+"""
+PreDocker Scraper
+Scrapes pre-doctoral positions from predoc.org
+"""
+
+import requests
+from bs4 import BeautifulSoup
+import json
+import sqlite3
+from datetime import datetime
+from typing import List, Dict
+import time
+
+class PreDocScraper:
+    def __init__(self, db_path='../database/predocker.db'):
+        self.base_url = 'https://predoc.org'
+        self.db_path = db_path
+        self.headers = {
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
+        }
+        self.init_database()
+    
+    def init_database(self):
+        """Initialize SQLite database with jobs table"""
+        conn = sqlite3.connect(self.db_path)
+        cursor = conn.cursor()
+        
+        cursor.execute('''
+            CREATE TABLE IF NOT EXISTS jobs (
+                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                title TEXT NOT NULL,
+                institution TEXT,
+                location TEXT,
+                deadline TEXT,
+                url TEXT UNIQUE,
+                description TEXT,
+                field TEXT,
+                scraped_date TEXT,
+                is_active INTEGER DEFAULT 1
+            )
+        ''')
+        
+        conn.commit()
+        conn.close()
+        print("✅ Database initialized")
+    
+    def scrape_jobs(self) -> List[Dict]:
+        """Scrape job listings from predoc.org"""
+        print("🔍 Starting to scrape predoc.org...")
+        
+        try:
+            response = requests.get(self.base_url, headers=self.headers, timeout=10)
+            response.raise_for_status()
+            
+            soup = BeautifulSoup(response.content, 'html.parser')
+            jobs = []
+            
+            # This is a placeholder - you'll need to inspect predoc.org's HTML structure
+            # and adjust the selectors accordingly
+            job_listings = soup.find_all('div', class_='job-listing')  # Adjust selector
+            
+            for job in job_listings:
+                try:
+                    job_data = {
+                        'title': job.find('h3').text.strip() if job.find('h3') else 'N/A',
+                        'institution': job.find('span', class_='institution').text.strip() if job.find('span', class_='institution') else 'N/A',
+                        'location': job.find('span', class_='location').text.strip() if job.find('span', class_='location') else 'N/A',
+                        'deadline': job.find('span', class_='deadline').text.strip() if job.find('span', class_='deadline') else 'N/A',
+                        'url': job.find('a')['href'] if job.find('a') else 'N/A',
+                        'description': job.find('p', class_='description').text.strip() if job.find('p', class_='description') else 'N/A',
+                        'field': job.find('span', class_='field').text.strip() if job.find('span', class_='field') else 'Economics',
+                        'scraped_date': datetime.now().isoformat()
+                    }
+                    jobs.append(job_data)
+                except Exception as e:
+                    print(f"⚠️  Error parsing job: {e}")
+                    continue
+            
+            print(f"✅ Scraped {len(jobs)} jobs")
+            return jobs
+            
+        except requests.RequestException as e:
+            print(f"❌ Error fetching data: {e}")
+            return []
+    
+    def save_to_database(self, jobs: List[Dict]):
+        """Save scraped jobs to database"""
+        conn = sqlite3.connect(self.db_path)
+        cursor = conn.cursor()
+        
+        saved_count = 0
+        for job in jobs:
+            try:
+                cursor.execute('''
+                    INSERT OR IGNORE INTO jobs 
+                    (title, institution, location, deadline, url, description, field, scraped_date)
+                    VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+                ''', (
+                    job['title'],
+                    job['institution'],
+                    job['location'],
+                    job['deadline'],
+                    job['url'],
+                    job['description'],
+                    job['field'],
+                    job['scraped_date']
+                ))
+                if cursor.rowcount > 0:
+                    saved_count += 1
+            except Exception as e:
+                print(f"⚠️  Error saving job: {e}")
+        
+        conn.commit()
+        conn.close()
+        print(f"✅ Saved {saved_count} new jobs to database")
+    
+    def export_to_json(self, jobs: List[Dict], filename='jobs.json'):
+        """Export jobs to JSON file"""
+        with open(filename, 'w', encoding='utf-8') as f:
+            json.dump(jobs, f, indent=2, ensure_ascii=False)
+        print(f"✅ Exported to {filename}")
+    
+    def run(self):
+        """Main execution method"""
+        print("🚀 PreDocker Scraper Starting...")
+        jobs = self.scrape_jobs()
+        
+        if jobs:
+            self.save_to_database(jobs)
+            self.export_to_json(jobs)
+        else:
+            print("⚠️  No jobs found or scraping failed")
+
+def main():
+    scraper = PreDocScraper()
+    scraper.run()
+
+if __name__ == '__main__':
+    main()
