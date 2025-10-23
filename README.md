@@ -66,26 +66,6 @@ python scraper.py
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-## Development Roadmap
-
-### Phase 1 (Week 1) - MVP
-- [x] Project setup
-- [ ] Basic job listings display
-- [ ] Simple scraper for predoc.org
-- [ ] SQLite database setup
-
-### Phase 2 (Week 2) - Core Features
-- [ ] Application status tracker
-- [ ] Deadline reminder system
-- [ ] Search and filter functionality
-- [ ] User authentication
-
-### Phase 3 (Week 3) - Enhancement
-- [ ] Document upload and management
-- [ ] Statistics dashboard
-- [ ] Email notifications
-- [ ] Mobile responsive design
-
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
