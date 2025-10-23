@@ -1,0 +1,1 @@
+web: cd scraper && gunicorn api_server:app

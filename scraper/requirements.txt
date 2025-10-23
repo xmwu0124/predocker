@@ -1,3 +1,8 @@
 requests
 beautifulsoup4
 urllib3
+PyPDF2
+python-docx
+flask
+flask-cors
+gunicorn
