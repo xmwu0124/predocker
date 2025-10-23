@@ -1,6 +1,6 @@
-# PreDocker 🎓
+# PreDocker 
 
-A modern web application for tracking pre-doctoral research positions and managing your academic job applications.
+A web application for tracking pre-doctoral research positions and managing my academic job applications.
 
 ## Features
 
