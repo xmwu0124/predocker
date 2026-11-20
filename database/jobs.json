@@ -1,5 +1,17 @@
 [
   {
+    "title": "Postgraduate Associate",
+    "institution": "Yale School of Management, Organizational Behavior group",
+    "location": "Yale School of Management, Organizational Behavior group",
+    "deadline": "December 13, 2026",
+    "url": "https://bit.ly/4l2hig0",
+    "description": "Sociology, Psychology, Behavioral Science, Statistics, Behavioral Economics, or a related field.",
+    "field": "Sociology, Psychology, Behavioral Science, Statistics, Behavioral Economics, or a related field.",
+    "scraped_date": "2026-11-20T06:43:58.885648",
+    "is_active": 1,
+    "id": 1
+  },
+  {
     "title": "Pre-doc position at the IAE",
     "institution": "Institute for Economic Analysis",
     "location": "Institute for Economic Analysis",
@@ -7,9 +19,9 @@
     "url": "https://bit.ly/3UVEzFK",
     "description": "Economics, Data Science",
     "field": "Economics, Data Science",
-    "scraped_date": "2026-11-19T06:53:59.163637",
+    "scraped_date": "2026-11-20T06:43:58.885776",
     "is_active": 1,
-    "id": 1
+    "id": 2
   },
   {
     "title": "Research Associate",
@@ -19,9 +31,9 @@
     "url": "https://bit.ly/4fgCYRV",
     "description": "Urban Economics, Housing Economics, Public Economics, Artificial Intelligence, Data Science",
     "field": "Urban Economics, Housing Economics, Public Economics, Artificial Intelligence, Data Science",
-    "scraped_date": "2026-11-19T06:53:59.163794",
+    "scraped_date": "2026-11-20T06:43:58.885864",
     "is_active": 1,
-    "id": 2
+    "id": 3
   },
   {
     "title": "Full-time Pre-doctoral Research Assistant in Financial Markets",
@@ -31,9 +43,9 @@
     "url": "https://bit.ly/4iVcmXI",
     "description": "Statistics and Econometrics, Financial Economics, Asset Pricing, Quantitative Finance, Risk Management, and Chinese Financial Markets",
     "field": "Statistics and Econometrics, Financial Economics, Asset Pricing, Quantitative Finance, Risk Management, and Chinese Financial Markets",
-    "scraped_date": "2026-11-19T06:53:59.163892",
+    "scraped_date": "2026-11-20T06:43:58.885950",
     "is_active": 1,
-    "id": 3
+    "id": 4
   },
   {
     "title": "Empirical Research Fellow",
@@ -43,9 +55,9 @@
     "url": "https://bit.ly/48o80U9",
     "description": "Accounting",
     "field": "Accounting",
-    "scraped_date": "2026-11-19T06:53:59.163990",
+    "scraped_date": "2026-11-20T06:43:58.886040",
     "is_active": 1,
-    "id": 4
+    "id": 5
   },
   {
     "title": "Research Professional",
@@ -55,9 +67,9 @@
     "url": "https://bit.ly/4iOh21s",
     "description": "Applied Econometrics and Econometric Theory",
     "field": "Applied Econometrics and Econometric Theory",
-    "scraped_date": "2026-11-19T06:53:59.165247",
+    "scraped_date": "2026-11-20T06:43:58.887269",
     "is_active": 1,
-    "id": 5
+    "id": 6
   },
   {
     "title": "Research Professional",
@@ -67,9 +79,9 @@
     "url": "https://bit.ly/4jck9Sf",
     "description": "Global Innovation, China's Economic Growth, and Technological Revolution in the US Service Sector",
     "field": "Global Innovation, China's Economic Growth, and Technological Revolution in the US Service Sector",
-    "scraped_date": "2026-11-19T06:53:59.165373",
+    "scraped_date": "2026-11-20T06:43:58.887410",
     "is_active": 1,
-    "id": 6
+    "id": 7
   },
   {
     "title": "Research Professional",
@@ -79,9 +91,9 @@
     "url": "https://bit.ly/4exSHf8",
     "description": "International Finance, Macro, and Spatial Economics",
     "field": "International Finance, Macro, and Spatial Economics",
-    "scraped_date": "2026-11-19T06:53:59.165479",
+    "scraped_date": "2026-11-20T06:43:58.887523",
     "is_active": 1,
-    "id": 7
+    "id": 8
   },
   {
     "title": "Research Professional",
@@ -91,9 +103,9 @@
     "url": "https://bit.ly/4ANaFTJ",
     "description": "Urban Economics, International Trade, and Industrial Organization",
     "field": "Urban Economics, International Trade, and Industrial Organization",
-    "scraped_date": "2026-11-19T06:53:59.165579",
+    "scraped_date": "2026-11-20T06:43:58.887625",
     "is_active": 1,
-    "id": 8
+    "id": 9
   },
   {
     "title": "Empirical Research Fellow",
@@ -103,9 +115,9 @@
     "url": "https://bit.ly/4kIoyNU",
     "description": "Organizational Behavior, Morality and Ethics, Social Movements, Environmental Sustainability",
     "field": "Organizational Behavior, Morality and Ethics, Social Movements, Environmental Sustainability",
-    "scraped_date": "2026-11-19T06:53:59.165685",
+    "scraped_date": "2026-11-20T06:43:58.887719",
     "is_active": 1,
-    "id": 9
+    "id": 10
   },
   {
     "title": "Pre-Doctoral Research Specialist",
@@ -115,9 +127,9 @@
     "url": "https://bit.ly/4C04ywH",
     "description": "Labor, Microeconomics, Gender Economics",
     "field": "Labor, Microeconomics, Gender Economics",
-    "scraped_date": "2026-11-19T06:53:59.165771",
+    "scraped_date": "2026-11-20T06:43:58.887797",
     "is_active": 1,
-    "id": 10
+    "id": 11
   },
   {
     "title": "Research Assistant",
@@ -127,9 +139,9 @@
     "url": "https://bit.ly/3Wef6YJ",
     "description": "Health Economics, Applied Microeconomics",
     "field": "Health Economics, Applied Microeconomics",
-    "scraped_date": "2026-11-19T06:53:59.165844",
+    "scraped_date": "2026-11-20T06:43:58.887869",
     "is_active": 1,
-    "id": 11
+    "id": 12
   },
   {
     "title": "Research Fellow",
@@ -139,9 +151,9 @@
     "url": "https://bit.ly/4z2Oasl",
     "description": "Development Economics, Political Economy, Labor Economics",
     "field": "Development Economics, Political Economy, Labor Economics",
-    "scraped_date": "2026-11-19T06:53:59.165941",
+    "scraped_date": "2026-11-20T06:43:58.887964",
     "is_active": 1,
-    "id": 12
+    "id": 13
   },
   {
     "title": "Empirical Research Fellow",
@@ -151,9 +163,9 @@
     "url": "https://bit.ly/4BFexam",
     "description": "Accounting",
     "field": "Accounting",
-    "scraped_date": "2026-11-19T06:53:59.166034",
+    "scraped_date": "2026-11-20T06:43:58.888055",
     "is_active": 1,
-    "id": 13
+    "id": 14
   },
   {
     "title": "Behavioral Research Fellow (Pre-Doc)",
@@ -163,9 +175,9 @@
     "url": "https://bit.ly/4Ak25LS",
     "description": "Behavioral Science, Marketing, Organizational Behavior",
     "field": "Behavioral Science, Marketing, Organizational Behavior",
-    "scraped_date": "2026-11-19T06:53:59.166134",
+    "scraped_date": "2026-11-20T06:43:58.888158",
     "is_active": 1,
-    "id": 14
+    "id": 15
   },
   {
     "title": "Econ Predoctoral Technical Associate: Firm AI Adoption with Microdata",
@@ -175,9 +187,9 @@
     "url": "https://bit.ly/484D9Md",
     "description": "Labor Economics, Economics of Innovation and Technological Change, Empirical Macroeconomics, Economics of Artificial Intelligence",
     "field": "Labor Economics, Economics of Innovation and Technological Change, Empirical Macroeconomics, Economics of Artificial Intelligence",
-    "scraped_date": "2026-11-19T06:53:59.166213",
+    "scraped_date": "2026-11-20T06:43:58.888236",
     "is_active": 1,
-    "id": 15
+    "id": 16
   },
   {
     "title": "Research Assistant",
@@ -187,9 +199,9 @@
     "url": "https://bit.ly/4iAOAAf",
     "description": "Economics",
     "field": "Economics",
-    "scraped_date": "2026-11-19T06:53:59.166295",
+    "scraped_date": "2026-11-20T06:43:58.888320",
     "is_active": 1,
-    "id": 16
+    "id": 17
   },
   {
     "title": "Predoctoral Fellow Positions",
@@ -199,9 +211,9 @@
     "url": "http://#",
     "description": "Finance",
     "field": "Finance",
-    "scraped_date": "2026-11-19T06:53:59.166377",
+    "scraped_date": "2026-11-20T06:43:58.888418",
     "is_active": 1,
-    "id": 17
+    "id": 18
   },
   {
     "title": "Predoctoral Research Assistant",
@@ -211,9 +223,9 @@
     "url": "https://bit.ly/4eeDJuo",
     "description": "Public Finance, Macroeconomics, Innovation and R&D Policy, Finance, Economic History",
     "field": "Public Finance, Macroeconomics, Innovation and R&D Policy, Finance, Economic History",
-    "scraped_date": "2026-11-19T06:53:59.166451",
+    "scraped_date": "2026-11-20T06:43:58.888498",
     "is_active": 1,
-    "id": 18
+    "id": 19
   },
   {
     "title": "Pre-doctoral Researcher",
@@ -223,9 +235,9 @@
     "url": "https://bit.ly/4z0a67n",
     "description": "Economics, Finance, Marketing, Accounting, Management, Innovation and Information Management",
     "field": "Economics, Finance, Marketing, Accounting, Management, Innovation and Information Management",
-    "scraped_date": "2026-11-19T06:53:59.166532",
+    "scraped_date": "2026-11-20T06:43:58.888584",
     "is_active": 1,
-    "id": 19
+    "id": 20
   },
   {
     "title": "Research Coordinator",
@@ -235,9 +247,9 @@
     "url": "https://bit.ly/4ikQLJj",
     "description": "Behavioral Science, Data Science, Psychology, Health",
     "field": "Behavioral Science, Data Science, Psychology, Health",
-    "scraped_date": "2026-11-19T06:53:59.166615",
+    "scraped_date": "2026-11-20T06:43:58.888670",
     "is_active": 1,
-    "id": 20
+    "id": 21
   },
   {
     "title": "Pre-Doctoral Research Professional",
@@ -247,9 +259,9 @@
     "url": "https://bit.ly/48domz3",
     "description": "Applied Microeconomics, Labor Economics, Public Economics, Political Economy",
     "field": "Applied Microeconomics, Labor Economics, Public Economics, Political Economy",
-    "scraped_date": "2026-11-19T06:53:59.166703",
+    "scraped_date": "2026-11-20T06:43:58.888746",
     "is_active": 1,
-    "id": 21
+    "id": 22
   },
   {
     "title": "Project Manager and Research Analyst",
@@ -259,9 +271,9 @@
     "url": "https://bit.ly/4BrObIO",
     "description": "R",
     "field": "R",
-    "scraped_date": "2026-11-19T06:53:59.166805",
+    "scraped_date": "2026-11-20T06:43:58.888846",
     "is_active": 1,
-    "id": 22
+    "id": 23
   },
   {
     "title": "Predoctoral Researcher",
@@ -271,9 +283,9 @@
     "url": "https://bit.ly/3UlAQ4g",
     "description": "Health, Public Economics, Applied Microeconomics",
     "field": "Health, Public Economics, Applied Microeconomics",
-    "scraped_date": "2026-11-19T06:53:59.166878",
+    "scraped_date": "2026-11-20T06:43:58.888920",
     "is_active": 1,
-    "id": 23
+    "id": 24
   },
   {
     "title": "Pre-Doctoral Research Assistant",
@@ -283,9 +295,9 @@
     "url": "https://bit.ly/4rti5I7",
     "description": ":",
     "field": ":",
-    "scraped_date": "2026-11-19T06:53:59.166978",
+    "scraped_date": "2026-11-20T06:43:58.889025",
     "is_active": 1,
-    "id": 24
+    "id": 25
   },
   {
     "title": "Research Technician-Assistant",
@@ -295,9 +307,9 @@
     "url": "https://bit.ly/47JcKU6",
     "description": "Environmental Economics, Industrial Organization, and Trade",
     "field": "Environmental Economics, Industrial Organization, and Trade",
-    "scraped_date": "2026-11-19T06:53:59.167049",
+    "scraped_date": "2026-11-20T06:43:58.889099",
     "is_active": 1,
-    "id": 25
+    "id": 26
   },
   {
     "title": "Research Assistant, Economic Studies Program",
@@ -307,9 +319,9 @@
     "url": "https://bit.ly/3W5aHXX",
     "description": "Economics, Mathematics/Statistics, Public Policy, or other social sciences with a minor in economics",
     "field": "Economics, Mathematics/Statistics, Public Policy, or other social sciences with a minor in economics",
-    "scraped_date": "2026-11-19T06:53:59.167143",
+    "scraped_date": "2026-11-20T06:43:58.889195",
     "is_active": 1,
-    "id": 26
+    "id": 27
   },
   {
     "title": "Senior Research Assistant, The Hamilton Project",
@@ -319,9 +331,9 @@
     "url": "http://#",
     "description": "Economics, Data Science, Statistics, Public Policy, or other social sciences with a minor in economics",
     "field": "Economics, Data Science, Statistics, Public Policy, or other social sciences with a minor in economics",
-    "scraped_date": "2026-11-19T06:53:59.167257",
+    "scraped_date": "2026-11-20T06:43:58.889314",
     "is_active": 1,
-    "id": 27
+    "id": 28
   },
   {
     "title": "Clinical Research Assistant",
@@ -331,9 +343,9 @@
     "url": "https://bit.ly/47GnPoX",
     "description": "Behavioral Science",
     "field": "Behavioral Science",
-    "scraped_date": "2026-11-19T06:53:59.167357",
+    "scraped_date": "2026-11-20T06:43:58.889441",
     "is_active": 1,
-    "id": 28
+    "id": 29
   },
   {
     "title": "Pre-Doctoral Fellow",
@@ -343,9 +355,9 @@
     "url": "https://bit.ly/4eCLTwH",
     "description": "Applied Microeconomics, Health Economics, Public Economics",
     "field": "Applied Microeconomics, Health Economics, Public Economics",
-    "scraped_date": "2026-11-19T06:53:59.167429",
+    "scraped_date": "2026-11-20T06:43:58.889521",
     "is_active": 1,
-    "id": 29
+    "id": 30
   },
   {
     "title": "Research Professional",
@@ -355,9 +367,9 @@
     "url": "https://bit.ly/4zbBa4E",
     "description": "The Research Professional will report to Koichiro Ito, Professor at University of Chicago Harris School of Public Policy. Research projects will focus on evaluating various energy and environmental policies in the US, Japan, China, India, Chile, and other countries by using a variety of methods such as randomized controlled trials, quasi-experimental research design, and structural estimation.",
     "field": "The Research Professional will report to Koichiro Ito, Professor at University of Chicago Harris School of Public Policy. Research projects will focus on evaluating various energy and environmental policies in the US, Japan, China, India, Chile, and other countries by using a variety of methods such as randomized controlled trials, quasi-experimental research design, and structural estimation.",
-    "scraped_date": "2026-11-19T06:53:59.167500",
+    "scraped_date": "2026-11-20T06:43:58.889594",
     "is_active": 1,
-    "id": 30
+    "id": 31
   },
   {
     "title": "Pre-Doctoral Technical Associate",
@@ -367,9 +379,9 @@
     "url": "https://bit.ly/4z5WU1F",
     "description": "Fintech, Cryptocurrencies and Blockchain, Financial Intermediation, and Consumer Finance",
     "field": "Fintech, Cryptocurrencies and Blockchain, Financial Intermediation, and Consumer Finance",
-    "scraped_date": "2026-11-19T06:53:59.167567",
+    "scraped_date": "2026-11-20T06:43:58.889668",
     "is_active": 1,
-    "id": 31
+    "id": 32
   },
   {
     "title": "Staff Associate (Accounting)",
@@ -379,9 +391,9 @@
     "url": "https://bit.ly/4ixbvgS",
     "description": "Accounting",
     "field": "Accounting",
-    "scraped_date": "2026-11-19T06:53:59.167634",
+    "scraped_date": "2026-11-20T06:43:58.889737",
     "is_active": 1,
-    "id": 32
+    "id": 33
   },
   {
     "title": "Pre-Doctoral Research Fellow",
@@ -391,9 +403,9 @@
     "url": "https://bit.ly/47wxMFj",
     "description": "Environmental Economics, Growth and Development, Applied Microeconomics",
     "field": "Environmental Economics, Growth and Development, Applied Microeconomics",
-    "scraped_date": "2026-11-19T06:53:59.167776",
+    "scraped_date": "2026-11-20T06:43:58.889833",
     "is_active": 1,
-    "id": 33
+    "id": 34
   },
   {
     "title": "Predoctoral Fellow",
@@ -403,9 +415,9 @@
     "url": "https://bit.ly/4iwFUM8",
     "description": "Environmental/Energy Economics, Public Finance, Trade, Health",
     "field": "Environmental/Energy Economics, Public Finance, Trade, Health",
-    "scraped_date": "2026-11-19T06:53:59.167884",
+    "scraped_date": "2026-11-20T06:43:58.889936",
     "is_active": 1,
-    "id": 34
+    "id": 35
   },
   {
     "title": "Salata Institute Predoctoral Fellow",
@@ -415,9 +427,9 @@
     "url": "https://bit.ly/4BngQiq",
     "description": "Environmental, Microeconomics, Macroeconomics, Agricultural, Industrial Organization, International Trade, Development, Public",
     "field": "Environmental, Microeconomics, Macroeconomics, Agricultural, Industrial Organization, International Trade, Development, Public",
-    "scraped_date": "2026-11-19T06:53:59.167985",
+    "scraped_date": "2026-11-20T06:43:58.890034",
     "is_active": 1,
-    "id": 35
+    "id": 36
   },
   {
     "title": "Full-Time Research Assistant",
@@ -427,9 +439,9 @@
     "url": "https://bit.ly/4ypqwpM",
     "description": "Health care",
     "field": "Health care",
-    "scraped_date": "2026-11-19T06:53:59.168073",
+    "scraped_date": "2026-11-20T06:43:58.890123",
     "is_active": 1,
-    "id": 36
+    "id": 37
   },
   {
     "title": "Research Professional",
@@ -439,9 +451,9 @@
     "url": "https://bit.ly/4ySSueu",
     "description": "Accounting, Corporate Finance, Applied Microeconomics",
     "field": "Accounting, Corporate Finance, Applied Microeconomics",
-    "scraped_date": "2026-11-19T06:53:59.168175",
+    "scraped_date": "2026-11-20T06:43:58.890224",
     "is_active": 1,
-    "id": 37
+    "id": 38
   },
   {
     "title": "Research Assistant",
@@ -451,9 +463,9 @@
     "url": "https://bit.ly/4zxzQIX",
     "description": "Microeconomics, Urban, Labor, Finance",
     "field": "Microeconomics, Urban, Labor, Finance",
-    "scraped_date": "2026-11-19T06:53:59.168248",
+    "scraped_date": "2026-11-20T06:43:58.890298",
     "is_active": 1,
-    "id": 38
+    "id": 39
   },
   {
     "title": "Research Professional",
@@ -463,9 +475,9 @@
     "url": "https://bit.ly/4yDxF69",
     "description": "Health, AI, Machine learning",
     "field": "Health, AI, Machine learning",
-    "scraped_date": "2026-11-19T06:53:59.168341",
+    "scraped_date": "2026-11-20T06:43:58.890410",
     "is_active": 1,
-    "id": 39
+    "id": 40
   },
   {
     "title": "Predoctoral Fellow",
@@ -475,9 +487,9 @@
     "url": "https://bit.ly/4hZYTxj",
     "description": ":",
     "field": ":",
-    "scraped_date": "2026-11-19T06:53:59.168440",
+    "scraped_date": "2026-11-20T06:43:58.890516",
     "is_active": 1,
-    "id": 40
+    "id": 41
   },
   {
     "title": "Pre-Doctoral Fellow",
@@ -487,9 +499,9 @@
     "url": "https://bit.ly/4yAJGJz",
     "description": ":",
     "field": ":",
-    "scraped_date": "2026-11-19T06:53:59.168550",
+    "scraped_date": "2026-11-20T06:43:58.890629",
     "is_active": 1,
-    "id": 41
+    "id": 42
   },
   {
     "title": "Pre-Doctoral Technical Associate Position",
@@ -499,9 +511,9 @@
     "url": "https://bit.ly/4dy3eX7",
     "description": ":",
     "field": ":",
-    "scraped_date": "2026-11-19T06:53:59.168644",
+    "scraped_date": "2026-11-20T06:43:58.890724",
     "is_active": 1,
-    "id": 42
+    "id": 43
   },
   {
     "title": "Predoctoral Research Associate",
@@ -511,9 +523,9 @@
     "url": "https://bit.ly/4zaCRyR",
     "description": ":",
     "field": ":",
-    "scraped_date": "2026-11-19T06:53:59.168777",
+    "scraped_date": "2026-11-20T06:43:58.890819",
     "is_active": 1,
-    "id": 43
+    "id": 44
   },
   {
     "title": "Pre-Doctoral Program – Global Talent Common Application",
@@ -523,9 +535,9 @@
     "url": "https://bit.ly/4zej8hG",
     "description": ":",
     "field": ":",
-    "scraped_date": "2026-11-19T06:53:59.168887",
+    "scraped_date": "2026-11-20T06:43:58.890921",
     "is_active": 1,
-    "id": 44
+    "id": 45
   },
   {
     "title": "Predoc Research and Communications Coordinator",
@@ -535,9 +547,9 @@
     "url": "https://bit.ly/4ynHYM4",
     "description": ":",
     "field": ":",
-    "scraped_date": "2026-11-19T06:53:59.168985",
+    "scraped_date": "2026-11-20T06:43:58.891022",
     "is_active": 1,
-    "id": 45
+    "id": 46
   },
   {
     "title": "Predoc Research Coordinator",
@@ -547,9 +559,9 @@
     "url": "https://bit.ly/4yvcsMl",
     "description": ":",
     "field": ":",
-    "scraped_date": "2026-11-19T06:53:59.169080",
+    "scraped_date": "2026-11-20T06:43:58.891118",
     "is_active": 1,
-    "id": 46
+    "id": 47
   },
   {
     "title": "Economics Research Specialist",
@@ -559,9 +571,9 @@
     "url": "https://bit.ly/3VmR0KN",
     "description": ":",
     "field": ":",
-    "scraped_date": "2026-11-19T06:53:59.169173",
+    "scraped_date": "2026-11-20T06:43:58.891212",
     "is_active": 1,
-    "id": 47
+    "id": 48
   },
   {
     "title": "Economics Research Specialist",
@@ -571,9 +583,9 @@
     "url": "https://bit.ly/3W33A1T",
     "description": ":",
     "field": ":",
-    "scraped_date": "2026-11-19T06:53:59.169264",
+    "scraped_date": "2026-11-20T06:43:58.891306",
     "is_active": 1,
-    "id": 48
+    "id": 49
   },
   {
     "title": "Junior Research Scientist",
@@ -583,9 +595,9 @@
     "url": "https://bit.ly/47v7e7d",
     "description": ":",
     "field": ":",
-    "scraped_date": "2026-11-19T06:53:59.169385",
+    "scraped_date": "2026-11-20T06:43:58.891415",
     "is_active": 1,
-    "id": 49
+    "id": 50
   },
   {
     "title": "Empirical Research Fellow",
@@ -595,9 +607,9 @@
     "url": "https://bit.ly/4xVvdqY",
     "description": ": Finance",
     "field": ": Finance",
-    "scraped_date": "2026-11-19T06:53:59.169487",
+    "scraped_date": "2026-11-20T06:43:58.891516",
     "is_active": 1,
-    "id": 50
+    "id": 51
   },
   {
     "title": "Empirical Research Fellows",
@@ -607,9 +619,9 @@
     "url": "https://bit.ly/46VfZrc",
     "description": ":",
     "field": ":",
-    "scraped_date": "2026-11-19T06:53:59.169584",
+    "scraped_date": "2026-11-20T06:43:58.891613",
     "is_active": 1,
-    "id": 51
+    "id": 52
   },
   {
     "title": "Pre-Doctoral Researcher, Education",
@@ -619,9 +631,9 @@
     "url": "https://bit.ly/3Sk8PZb",
     "description": "Economics, Education",
     "field": "Economics, Education",
-    "scraped_date": "2026-11-19T06:53:59.169652",
+    "scraped_date": "2026-11-20T06:43:58.891682",
     "is_active": 1,
-    "id": 52
+    "id": 53
   },
   {
     "title": "Pre-Doctoral Researcher, Workforce",
@@ -631,9 +643,9 @@
     "url": "https://bit.ly/4v0oRpy",
     "description": "Economics, Workforce/Labor, Education",
     "field": "Economics, Workforce/Labor, Education",
-    "scraped_date": "2026-11-19T06:53:59.169749",
+    "scraped_date": "2026-11-20T06:43:58.891750",
     "is_active": 1,
-    "id": 53
+    "id": 54
   },
   {
     "title": "Predoctoral Fellow",
@@ -643,9 +655,9 @@
     "url": "https://bit.ly/4xVMGQh",
     "description": ":",
     "field": ":",
-    "scraped_date": "2026-11-19T06:53:59.169853",
+    "scraped_date": "2026-11-20T06:43:58.891850",
     "is_active": 1,
-    "id": 54
+    "id": 55
   },
   {
     "title": "Predoctoral Research Associate",
@@ -655,9 +667,9 @@
     "url": "https://bit.ly/3Vn96MG",
     "description": ":",
     "field": ":",
-    "scraped_date": "2026-11-19T06:53:59.169947",
+    "scraped_date": "2026-11-20T06:43:58.891944",
     "is_active": 1,
-    "id": 55
+    "id": 56
   },
   {
     "title": "Pre-Doctoral Technical Associate",
@@ -667,9 +679,9 @@
     "url": "https://bit.ly/4AGEW74",
     "description": ":",
     "field": ":",
-    "scraped_date": "2026-11-19T06:53:59.170039",
+    "scraped_date": "2026-11-20T06:43:58.892038",
     "is_active": 1,
-    "id": 56
+    "id": 57
   },
   {
     "title": "Statistician (Research Assistant)",
@@ -679,9 +691,9 @@
     "url": "https://bit.ly/4iNYQ9Z",
     "description": ":",
     "field": ":",
-    "scraped_date": "2026-11-19T06:53:59.170133",
+    "scraped_date": "2026-11-20T06:43:58.892135",
     "is_active": 1,
-    "id": 57
+    "id": 58
   },
   {
     "title": "Pre-Doctoral Fellow",
@@ -691,9 +703,9 @@
     "url": "https://bit.ly/3VcFTUE",
     "description": ":",
     "field": ":",
-    "scraped_date": "2026-11-19T06:53:59.170225",
+    "scraped_date": "2026-11-20T06:43:58.892227",
     "is_active": 1,
-    "id": 58
+    "id": 59
   },
   {
     "title": "Predoctoral Research Scholar",
@@ -703,9 +715,9 @@
     "url": "https://bit.ly/4hevCzP",
     "description": ":",
     "field": ":",
-    "scraped_date": "2026-11-19T06:53:59.170318",
+    "scraped_date": "2026-11-20T06:43:58.892320",
     "is_active": 1,
-    "id": 59
+    "id": 60
   },
   {
     "title": "Predoctoral Research Scholar",
@@ -715,9 +727,9 @@
     "url": "https://bit.ly/4d6kYJ2",
     "description": ":",
     "field": ":",
-    "scraped_date": "2026-11-19T06:53:59.170409",
+    "scraped_date": "2026-11-20T06:43:58.892433",
     "is_active": 1,
-    "id": 60
+    "id": 61
   },
   {
     "title": "Predoctoral Research Scholar",
@@ -727,9 +739,9 @@
     "url": "https://bit.ly/4ylZ510",
     "description": ":",
     "field": ":",
-    "scraped_date": "2026-11-19T06:53:59.170503",
+    "scraped_date": "2026-11-20T06:43:58.892532",
     "is_active": 1,
-    "id": 61
+    "id": 62
   },
   {
     "title": "Predoctoral Research Scholar",
@@ -739,9 +751,9 @@
     "url": "https://bit.ly/4rz4sqU",
     "description": ": Sociology",
     "field": ": Sociology",
-    "scraped_date": "2026-11-19T06:53:59.170592",
+    "scraped_date": "2026-11-20T06:43:58.892625",
     "is_active": 1,
-    "id": 62
+    "id": 63
   },
   {
     "title": "Research Professional",
@@ -751,9 +763,9 @@
     "url": "https://bit.ly/3TiV7Ha",
     "description": ": Finance",
     "field": ": Finance",
-    "scraped_date": "2026-11-19T06:53:59.170696",
+    "scraped_date": "2026-11-20T06:43:58.892717",
     "is_active": 1,
-    "id": 63
+    "id": 64
   },
   {
     "title": "Research Professional",
@@ -763,9 +775,9 @@
     "url": "https://bit.ly/4hIYxw2",
     "description": ":",
     "field": ":",
-    "scraped_date": "2026-11-19T06:53:59.170794",
+    "scraped_date": "2026-11-20T06:43:58.892810",
     "is_active": 1,
-    "id": 64
+    "id": 65
   },
   {
     "title": "Predoctoral Research Associate",
@@ -775,9 +787,9 @@
     "url": "https://bit.ly/4ruWtLi",
     "description": ":",
     "field": ":",
-    "scraped_date": "2026-11-19T06:53:59.170888",
+    "scraped_date": "2026-11-20T06:43:58.892906",
     "is_active": 1,
-    "id": 65
+    "id": 66
   },
   {
     "title": "Research Fellow",
@@ -787,9 +799,9 @@
     "url": "https://bit.ly/4iNztVS",
     "description": ":",
     "field": ":",
-    "scraped_date": "2026-11-19T06:53:59.170982",
+    "scraped_date": "2026-11-20T06:43:58.893001",
     "is_active": 1,
-    "id": 66
+    "id": 67
   },
   {
     "title": "Pre-Doctoral Technical Associate Position",
@@ -799,9 +811,9 @@
     "url": "https://bit.ly/4d5k3Zk",
     "description": ":",
     "field": ":",
-    "scraped_date": "2026-11-19T06:53:59.171079",
+    "scraped_date": "2026-11-20T06:43:58.893096",
     "is_active": 1,
-    "id": 67
+    "id": 68
   },
   {
     "title": "Pre-Doctoral Technical Associate Position",
@@ -811,9 +823,9 @@
     "url": "https://bit.ly/4dVark2",
     "description": ":",
     "field": ":",
-    "scraped_date": "2026-11-19T06:53:59.171187",
+    "scraped_date": "2026-11-20T06:43:58.893192",
     "is_active": 1,
-    "id": 68
+    "id": 69
   },
   {
     "title": "Pre-Doctoral Technical Associate Position",
@@ -823,9 +835,9 @@
     "url": "https://bit.ly/4yfkFny",
     "description": ":",
     "field": ":",
-    "scraped_date": "2026-11-19T06:53:59.171285",
+    "scraped_date": "2026-11-20T06:43:58.893290",
     "is_active": 1,
-    "id": 69
+    "id": 70
   },
   {
     "title": "Staff Associate - Finance",
@@ -835,19 +847,7 @@
     "url": "https://bit.ly/3TgF5O0",
     "description": ": Finance",
     "field": ": Finance",
-    "scraped_date": "2026-11-19T06:53:59.171376",
-    "is_active": 1,
-    "id": 70
-  },
-  {
-    "title": "Research Assistant (Pre-Doc Intern)",
-    "institution": ":",
-    "location": ":",
-    "deadline": ":",
-    "url": "https://bit.ly/3VuuwHD",
-    "description": ":",
-    "field": ":",
-    "scraped_date": "2026-11-19T06:53:59.171470",
+    "scraped_date": "2026-11-20T06:43:58.893405",
     "is_active": 1,
     "id": 71
   },
@@ -859,7 +859,7 @@
     "url": "https://bit.ly/3V5WhWY",
     "description": ":",
     "field": ":",
-    "scraped_date": "2026-11-19T06:53:59.171565",
+    "scraped_date": "2026-11-20T06:43:58.893518",
     "is_active": 1,
     "id": 72
   },
@@ -871,7 +871,7 @@
     "url": "https://bit.ly/46BM5rH",
     "description": ": Labor, Public Economics, Public Policy, and Education",
     "field": ": Labor, Public Economics, Public Policy, and Education",
-    "scraped_date": "2026-11-19T06:53:59.171656",
+    "scraped_date": "2026-11-20T06:43:58.893615",
     "is_active": 1,
     "id": 73
   },
@@ -883,7 +883,7 @@
     "url": "https://bit.ly/4rhqNZU",
     "description": ": Development, Behavioral Economics",
     "field": ": Development, Behavioral Economics",
-    "scraped_date": "2026-11-19T06:53:59.171768",
+    "scraped_date": "2026-11-20T06:43:58.893713",
     "is_active": 1,
     "id": 74
   },
@@ -895,7 +895,7 @@
     "url": "https://bit.ly/4hmfAmu",
     "description": ":",
     "field": ":",
-    "scraped_date": "2026-11-19T06:53:59.171870",
+    "scraped_date": "2026-11-20T06:43:58.893818",
     "is_active": 1,
     "id": 75
   },
@@ -907,7 +907,7 @@
     "url": "https://bit.ly/4h1vW51",
     "description": ":",
     "field": ":",
-    "scraped_date": "2026-11-19T06:53:59.171964",
+    "scraped_date": "2026-11-20T06:43:58.893914",
     "is_active": 1,
     "id": 76
   },
@@ -919,7 +919,7 @@
     "url": "https://bit.ly/4yKyfzl",
     "description": ":",
     "field": ":",
-    "scraped_date": "2026-11-19T06:53:59.172066",
+    "scraped_date": "2026-11-20T06:43:58.894018",
     "is_active": 1,
     "id": 77
   },
@@ -931,7 +931,7 @@
     "url": "https://bit.ly/4yJQJzJ",
     "description": ": Macroeconomics, Household Finance, and Inequality",
     "field": ": Macroeconomics, Household Finance, and Inequality",
-    "scraped_date": "2026-11-19T06:53:59.172163",
+    "scraped_date": "2026-11-20T06:43:58.894117",
     "is_active": 1,
     "id": 78
   },
@@ -943,7 +943,7 @@
     "url": "https://bit.ly/4yDgnWV",
     "description": ":",
     "field": ":",
-    "scraped_date": "2026-11-19T06:53:59.172258",
+    "scraped_date": "2026-11-20T06:43:58.894213",
     "is_active": 1,
     "id": 79
   },
@@ -955,7 +955,7 @@
     "url": "https://bit.ly/4dFtX3X",
     "description": "M",
     "field": "M",
-    "scraped_date": "2026-11-19T06:53:59.172345",
+    "scraped_date": "2026-11-20T06:43:58.894302",
     "is_active": 1,
     "id": 80
   },
@@ -967,7 +967,7 @@
     "url": "https://bit.ly/4x6rIxI",
     "description": "Macrofinance, international finance, policy",
     "field": "Macrofinance, international finance, policy",
-    "scraped_date": "2026-11-19T06:53:59.172442",
+    "scraped_date": "2026-11-20T06:43:58.894419",
     "is_active": 1,
     "id": 81
   },
@@ -979,7 +979,7 @@
     "url": "https://bit.ly/4cKIElZ",
     "description": "Applied AI, post-training, AI alignment, AI governance, economics of AI",
     "field": "Applied AI, post-training, AI alignment, AI governance, economics of AI",
-    "scraped_date": "2026-11-19T06:53:59.172537",
+    "scraped_date": "2026-11-20T06:43:58.894528",
     "is_active": 1,
     "id": 82
   },
@@ -991,7 +991,7 @@
     "url": "https://stanford.io/3V5HefO",
     "description": "Economics, Finance, Accounting, Organizational Behavior",
     "field": "Economics, Finance, Accounting, Organizational Behavior",
-    "scraped_date": "2026-11-19T06:53:59.172628",
+    "scraped_date": "2026-11-20T06:43:58.894620",
     "is_active": 1,
     "id": 83
   },
@@ -1003,7 +1003,7 @@
     "url": "https://bit.ly/4hnRTuU",
     "description": "Development Economics, Political Economy, Taxation",
     "field": "Development Economics, Political Economy, Taxation",
-    "scraped_date": "2026-11-19T06:53:59.172736",
+    "scraped_date": "2026-11-20T06:43:58.894716",
     "is_active": 1,
     "id": 84
   },
@@ -1015,7 +1015,7 @@
     "url": "https://bit.ly/3UNwqmt",
     "description": "Development Economics, Political Economy, Taxation",
     "field": "Development Economics, Political Economy, Taxation",
-    "scraped_date": "2026-11-19T06:53:59.172833",
+    "scraped_date": "2026-11-20T06:43:58.894810",
     "is_active": 1,
     "id": 85
   },
@@ -1027,7 +1027,7 @@
     "url": "https://bit.ly/3SVuCY6",
     "description": "Public economics, inequality, labor economics, household finance, corporate finance, asset pricing, machine learning, macroeconomics, fiscal policy, behavioral economics, spatial economics, urban economics, industrial organization, and housing",
     "field": "Public economics, inequality, labor economics, household finance, corporate finance, asset pricing, machine learning, macroeconomics, fiscal policy, behavioral economics, spatial economics, urban economics, industrial organization, and housing",
-    "scraped_date": "2026-11-19T06:53:59.172936",
+    "scraped_date": "2026-11-20T06:43:58.894916",
     "is_active": 1,
     "id": 86
   },
@@ -1039,7 +1039,7 @@
     "url": "https://bit.ly/3UGFIkg",
     "description": "Behavioral economics and finance, intersecting with topics in applied microeconomics, macro-finance, labor, and health",
     "field": "Behavioral economics and finance, intersecting with topics in applied microeconomics, macro-finance, labor, and health",
-    "scraped_date": "2026-11-19T06:53:59.173042",
+    "scraped_date": "2026-11-20T06:43:58.895022",
     "is_active": 1,
     "id": 87
   },
@@ -1051,7 +1051,7 @@
     "url": "https://bit.ly/4xNIp26",
     "description": "Gender and Family; Public Economics; Public Policy; Microeconomics; Applied Econometrics",
     "field": "Gender and Family; Public Economics; Public Policy; Microeconomics; Applied Econometrics",
-    "scraped_date": "2026-11-19T06:53:59.173129",
+    "scraped_date": "2026-11-20T06:43:58.895109",
     "is_active": 1,
     "id": 88
   },
@@ -1063,7 +1063,7 @@
     "url": "https://bit.ly/4gUfWjH",
     "description": "Microeconomics, history of economics",
     "field": "Microeconomics, history of economics",
-    "scraped_date": "2026-11-19T06:53:59.173224",
+    "scraped_date": "2026-11-20T06:43:58.895211",
     "is_active": 1,
     "id": 89
   },
@@ -1075,7 +1075,7 @@
     "url": "https://bit.ly/466aGVi",
     "description": "Economics, Public Economics, Public Policy, Big Data, Statistics, Economic Mobility, Labor Markets, Econometrics, Education, Social Capital",
     "field": "Economics, Public Economics, Public Policy, Big Data, Statistics, Economic Mobility, Labor Markets, Econometrics, Education, Social Capital",
-    "scraped_date": "2026-11-19T06:53:59.173319",
+    "scraped_date": "2026-11-20T06:43:58.895308",
     "is_active": 1,
     "id": 90
   },
@@ -1087,7 +1087,7 @@
     "url": "https://bit.ly/4guNTbS",
     "description": "Health economics and applied econometrics",
     "field": "Health economics and applied econometrics",
-    "scraped_date": "2026-11-19T06:53:59.173387",
+    "scraped_date": "2026-11-20T06:43:58.895395",
     "is_active": 1,
     "id": 91
   },
@@ -1099,7 +1099,7 @@
     "url": "https://bit.ly/4qFFmX3",
     "description": "Empirical macrofinance, macroeconomics, finance, policy",
     "field": "Empirical macrofinance, macroeconomics, finance, policy",
-    "scraped_date": "2026-11-19T06:53:59.173477",
+    "scraped_date": "2026-11-20T06:43:58.895494",
     "is_active": 1,
     "id": 92
   },
@@ -1111,7 +1111,7 @@
     "url": "https://bit.ly/4hUxzSR",
     "description": "Microeconomics, Statistics and Econometrics, Market Shaping, Public Policy",
     "field": "Microeconomics, Statistics and Econometrics, Market Shaping, Public Policy",
-    "scraped_date": "2026-11-19T06:53:59.173563",
+    "scraped_date": "2026-11-20T06:43:58.895584",
     "is_active": 1,
     "id": 93
   },
@@ -1123,7 +1123,7 @@
     "url": "https://bit.ly/4glnXzf",
     "description": "Development and macroeconomics",
     "field": "Development and macroeconomics",
-    "scraped_date": "2026-11-19T06:53:59.173659",
+    "scraped_date": "2026-11-20T06:43:58.895682",
     "is_active": 1,
     "id": 94
   },
@@ -1135,7 +1135,7 @@
     "url": "https://bit.ly/4xP280Q",
     "description": "Public economics",
     "field": "Public economics",
-    "scraped_date": "2026-11-19T06:53:59.173763",
+    "scraped_date": "2026-11-20T06:43:58.895767",
     "is_active": 1,
     "id": 95
   },
@@ -1147,7 +1147,7 @@
     "url": "https://bit.ly/4cRiuxM",
     "description": "Applied Microeconomics, real estate, urban economics, household finance, public finance, industrial organization, development",
     "field": "Applied Microeconomics, real estate, urban economics, household finance, public finance, industrial organization, development",
-    "scraped_date": "2026-11-19T06:53:59.173838",
+    "scraped_date": "2026-11-20T06:43:58.895843",
     "is_active": 1,
     "id": 96
   },
@@ -1159,7 +1159,7 @@
     "url": "https://bit.ly/4wDIMuE",
     "description": "Economic history, Education, Finance, Health, Labor, Macroeconomics, Microeconomics, Public Economics",
     "field": "Economic history, Education, Finance, Health, Labor, Macroeconomics, Microeconomics, Public Economics",
-    "scraped_date": "2026-11-19T06:53:59.173923",
+    "scraped_date": "2026-11-20T06:43:58.895927",
     "is_active": 1,
     "id": 97
   },
@@ -1171,7 +1171,7 @@
     "url": "https://bit.ly/4zpBEVi",
     "description": "Law and economics; public policy; political economy; economics of crime",
     "field": "Law and economics; public policy; political economy; economics of crime",
-    "scraped_date": "2026-11-19T06:53:59.174023",
+    "scraped_date": "2026-11-20T06:43:58.896027",
     "is_active": 1,
     "id": 98
   },
@@ -1183,7 +1183,7 @@
     "url": "https://bit.ly/45CKBwU",
     "description": "Health economics",
     "field": "Health economics",
-    "scraped_date": "2026-11-19T06:53:59.174095",
+    "scraped_date": "2026-11-20T06:43:58.896100",
     "is_active": 1,
     "id": 99
   },
@@ -1195,7 +1195,7 @@
     "url": "https://bit.ly/4i7nn9t",
     "description": "International, Operations, Microeconomics, Public Policy",
     "field": "International, Operations, Microeconomics, Public Policy",
-    "scraped_date": "2026-11-19T06:53:59.174189",
+    "scraped_date": "2026-11-20T06:43:58.896208",
     "is_active": 1,
     "id": 100
   },
@@ -1207,7 +1207,7 @@
     "url": "https://bit.ly/3SpDipi",
     "description": "RCTs (Financial Inclusion, Entrepreneurship, and Skills formation)",
     "field": "RCTs (Financial Inclusion, Entrepreneurship, and Skills formation)",
-    "scraped_date": "2026-11-19T06:53:59.174283",
+    "scraped_date": "2026-11-20T06:43:58.896305",
     "is_active": 1,
     "id": 101
   },
@@ -1219,7 +1219,7 @@
     "url": "https://bit.ly/4qcK8eb",
     "description": "Statistics and Econometrics, AI, Computer Science, Data Science and Tech Innovation, Meta-analysis",
     "field": "Statistics and Econometrics, AI, Computer Science, Data Science and Tech Innovation, Meta-analysis",
-    "scraped_date": "2026-11-19T06:53:59.174376",
+    "scraped_date": "2026-11-20T06:43:58.896415",
     "is_active": 1,
     "id": 102
   },
@@ -1231,7 +1231,7 @@
     "url": "https://bit.ly/45dJmEc",
     "description": "N/A",
     "field": "N/A",
-    "scraped_date": "2026-11-19T06:53:59.174460",
+    "scraped_date": "2026-11-20T06:43:58.896504",
     "is_active": 1,
     "id": 103
   },
@@ -1243,7 +1243,7 @@
     "url": "https://bit.ly/4hNLIAZ",
     "description": "N/A",
     "field": "N/A",
-    "scraped_date": "2026-11-19T06:53:59.174559",
+    "scraped_date": "2026-11-20T06:43:58.896605",
     "is_active": 1,
     "id": 104
   },
@@ -1255,7 +1255,7 @@
     "url": "https://bit.ly/4pUpU9a",
     "description": "AI & Entrepreneurship",
     "field": "AI & Entrepreneurship",
-    "scraped_date": "2026-11-19T06:53:59.174628",
+    "scraped_date": "2026-11-20T06:43:58.896675",
     "is_active": 1,
     "id": 105
   },
@@ -1267,7 +1267,7 @@
     "url": "https://bit.ly/4yz1mX4",
     "description": "Marketing, Behavioral Science",
     "field": "Marketing, Behavioral Science",
-    "scraped_date": "2026-11-19T06:53:59.174708",
+    "scraped_date": "2026-11-20T06:43:58.896745",
     "is_active": 1,
     "id": 106
   },
@@ -1279,7 +1279,7 @@
     "url": "https://bit.ly/455YEdU",
     "description": "Economics, Labor Economics, Accounting, Finance",
     "field": "Economics, Labor Economics, Accounting, Finance",
-    "scraped_date": "2026-11-19T06:53:59.174810",
+    "scraped_date": "2026-11-20T06:43:58.896844",
     "is_active": 1,
     "id": 107
   },
@@ -1291,7 +1291,7 @@
     "url": "https://bit.ly/4bdAeD5",
     "description": "Environmental, Public Policy",
     "field": "Environmental, Public Policy",
-    "scraped_date": "2026-11-19T06:53:59.174902",
+    "scraped_date": "2026-11-20T06:43:58.896938",
     "is_active": 1,
     "id": 108
   },
@@ -1303,7 +1303,7 @@
     "url": "https://bit.ly/3SA8zW8",
     "description": "The research area may cover all subfields of finance, including asset pricing, corporate finance, household finance, macro finance, international finance, and fintech.",
     "field": "The research area may cover all subfields of finance, including asset pricing, corporate finance, household finance, macro finance, international finance, and fintech.",
-    "scraped_date": "2026-11-19T06:53:59.174997",
+    "scraped_date": "2026-11-20T06:43:58.897100",
     "is_active": 1,
     "id": 109
   },
@@ -1315,7 +1315,7 @@
     "url": "https://bit.ly/4wpM3xR",
     "description": "N/A",
     "field": "N/A",
-    "scraped_date": "2026-11-19T06:53:59.175096",
+    "scraped_date": "2026-11-20T06:43:58.897230",
     "is_active": 1,
     "id": 110
   },
@@ -1327,7 +1327,7 @@
     "url": "https://bit.ly/44hatxH",
     "description": "Urban economics and technology",
     "field": "Urban economics and technology",
-    "scraped_date": "2026-11-19T06:53:59.175200",
+    "scraped_date": "2026-11-20T06:43:58.897335",
     "is_active": 1,
     "id": 111
   },
@@ -1339,7 +1339,7 @@
     "url": "https://bit.ly/4vAySu8",
     "description": "The job will involve research in applied microeconomics, focusing on projects on the digital economy, transportation and urban economics, and industrial organization.",
     "field": "The job will involve research in applied microeconomics, focusing on projects on the digital economy, transportation and urban economics, and industrial organization.",
-    "scraped_date": "2026-11-19T06:53:59.175389",
+    "scraped_date": "2026-11-20T06:43:58.897572",
     "is_active": 1,
     "id": 112
   },
@@ -1351,7 +1351,7 @@
     "url": "https://bit.ly/4uVBTEi",
     "description": "N/A",
     "field": "N/A",
-    "scraped_date": "2026-11-19T06:53:59.175491",
+    "scraped_date": "2026-11-20T06:43:58.897677",
     "is_active": 1,
     "id": 113
   },
@@ -1363,7 +1363,7 @@
     "url": "https://bit.ly/4xwfsbf",
     "description": ": Psychology, public health, digital health, or general research focused on youth mental health and related areas.",
     "field": ": Psychology, public health, digital health, or general research focused on youth mental health and related areas.",
-    "scraped_date": "2026-11-19T06:53:59.175590",
+    "scraped_date": "2026-11-20T06:43:58.897778",
     "is_active": 1,
     "id": 114
   },
@@ -1375,7 +1375,7 @@
     "url": "https://bit.ly/4ers9eC",
     "description": "N/A",
     "field": "N/A",
-    "scraped_date": "2026-11-19T06:53:59.175698",
+    "scraped_date": "2026-11-20T06:43:58.897875",
     "is_active": 1,
     "id": 115
   },
@@ -1387,7 +1387,7 @@
     "url": "https://bit.ly/4uDP7Fg",
     "description": "N/A",
     "field": "N/A",
-    "scraped_date": "2026-11-19T06:53:59.175808",
+    "scraped_date": "2026-11-20T06:43:58.897981",
     "is_active": 1,
     "id": 116
   },
@@ -1399,7 +1399,7 @@
     "url": "https://bit.ly/3SbLXeC",
     "description": "N/A",
     "field": "N/A",
-    "scraped_date": "2026-11-19T06:53:59.175912",
+    "scraped_date": "2026-11-20T06:43:58.898088",
     "is_active": 1,
     "id": 117
   },
@@ -1411,7 +1411,7 @@
     "url": "https://bit.ly/4oxtNQl",
     "description": ": This role will focus on measuring and analyzing the development of globalization based on country-level and firm-level data.",
     "field": ": This role will focus on measuring and analyzing the development of globalization based on country-level and firm-level data.",
-    "scraped_date": "2026-11-19T06:53:59.175980",
+    "scraped_date": "2026-11-20T06:43:58.898162",
     "is_active": 1,
     "id": 118
   },
@@ -1423,7 +1423,7 @@
     "url": "https://bit.ly/43KNdYy",
     "description": ": Housing policy",
     "field": ": Housing policy",
-    "scraped_date": "2026-11-19T06:53:59.176177",
+    "scraped_date": "2026-11-20T06:43:58.898356",
     "is_active": 1,
     "id": 119
   },
@@ -1435,7 +1435,7 @@
     "url": "https://bit.ly/4frCcTg",
     "description": "Demographics and political economy",
     "field": "Demographics and political economy",
-    "scraped_date": "2026-11-19T06:53:59.176279",
+    "scraped_date": "2026-11-20T06:43:58.898481",
     "is_active": 1,
     "id": 120
   },
@@ -1447,7 +1447,7 @@
     "url": "https://bit.ly/4enf9aW",
     "description": "N/A",
     "field": "N/A",
-    "scraped_date": "2026-11-19T06:53:59.176384",
+    "scraped_date": "2026-11-20T06:43:58.898588",
     "is_active": 1,
     "id": 121
   },
@@ -1459,7 +1459,7 @@
     "url": "https://bit.ly/4ec2tmi",
     "description": "Health care policy, the federal budget, and entitlement program reform",
     "field": "Health care policy, the federal budget, and entitlement program reform",
-    "scraped_date": "2026-11-19T06:53:59.176487",
+    "scraped_date": "2026-11-20T06:43:58.898693",
     "is_active": 1,
     "id": 122
   },
@@ -1471,7 +1471,7 @@
     "url": "https://bit.ly/4x3VTqx",
     "description": "Economics, AI, Health Care",
     "field": "Economics, AI, Health Care",
-    "scraped_date": "2026-11-19T06:53:59.176583",
+    "scraped_date": "2026-11-20T06:43:58.898791",
     "is_active": 1,
     "id": 123
   },
@@ -1483,7 +1483,7 @@
     "url": "https://bit.ly/4nRYwaJ",
     "description": "Data Science and Tech Innovation, Urban, Artificial Intelligence",
     "field": "Data Science and Tech Innovation, Urban, Artificial Intelligence",
-    "scraped_date": "2026-11-19T06:53:59.176691",
+    "scraped_date": "2026-11-20T06:43:58.898886",
     "is_active": 1,
     "id": 124
   },
@@ -1495,7 +1495,7 @@
     "url": "https://bit.ly/4fhccdd",
     "description": "Development economics, labor economics",
     "field": "Development economics, labor economics",
-    "scraped_date": "2026-11-19T06:53:59.176789",
+    "scraped_date": "2026-11-20T06:43:58.898980",
     "is_active": 1,
     "id": 125
   },
@@ -1507,7 +1507,7 @@
     "url": "https://bit.ly/4nHi4yn",
     "description": "Environment and sustainability, AI/ML systems, operations, and statistics",
     "field": "Environment and sustainability, AI/ML systems, operations, and statistics",
-    "scraped_date": "2026-11-19T06:53:59.176976",
+    "scraped_date": "2026-11-20T06:43:58.899166",
     "is_active": 1,
     "id": 126
   },
@@ -1519,7 +1519,7 @@
     "url": "https://bit.ly/4uqjiAs",
     "description": "Applied Microeconomics / Macro Finance",
     "field": "Applied Microeconomics / Macro Finance",
-    "scraped_date": "2026-11-19T06:53:59.177052",
+    "scraped_date": "2026-11-20T06:43:58.899243",
     "is_active": 1,
     "id": 127
   },
@@ -1531,7 +1531,7 @@
     "url": "https://bit.ly/492aNTJ",
     "description": "Economics, Environmental, Labor, Microeconomics, Public Economics, Statistics and Econometrics",
     "field": "Economics, Environmental, Labor, Microeconomics, Public Economics, Statistics and Econometrics",
-    "scraped_date": "2026-11-19T06:53:59.177149",
+    "scraped_date": "2026-11-20T06:43:58.899344",
     "is_active": 1,
     "id": 128
   },
@@ -1543,7 +1543,7 @@
     "url": "https://bit.ly/48IgVk0",
     "description": "Developmental psychology, clinical psychology",
     "field": "Developmental psychology, clinical psychology",
-    "scraped_date": "2026-11-19T06:53:59.177245",
+    "scraped_date": "2026-11-20T06:43:58.899461",
     "is_active": 1,
     "id": 129
   },
@@ -1555,7 +1555,7 @@
     "url": "https://bit.ly/3QNqJmH",
     "description": "Projects in applied microeconomics, with a focus on higher education, skills, and labor-market outcomes.",
     "field": "Projects in applied microeconomics, with a focus on higher education, skills, and labor-market outcomes.",
-    "scraped_date": "2026-11-19T06:53:59.177346",
+    "scraped_date": "2026-11-20T06:43:58.899565",
     "is_active": 1,
     "id": 130
   },
@@ -1567,7 +1567,7 @@
     "url": "https://bit.ly/4f53TB5",
     "description": "The Research Assistant/Associate (campus title: Junior/Assistant/Associate Specialist) is a critical member of CPL research teams working on policy issues such as criminal justice, education, employment, health, and the social safety net.",
     "field": "The Research Assistant/Associate (campus title: Junior/Assistant/Associate Specialist) is a critical member of CPL research teams working on policy issues such as criminal justice, education, employment, health, and the social safety net.",
-    "scraped_date": "2026-11-19T06:53:59.177442",
+    "scraped_date": "2026-11-20T06:43:58.899663",
     "is_active": 1,
     "id": 131
   },
@@ -1579,7 +1579,7 @@
     "url": "https://bit.ly/4usyNrd",
     "description": "Empirical research projects in applied economics and political economy",
     "field": "Empirical research projects in applied economics and political economy",
-    "scraped_date": "2026-11-19T06:53:59.177541",
+    "scraped_date": "2026-11-20T06:43:58.899765",
     "is_active": 1,
     "id": 132
   },
@@ -1591,7 +1591,7 @@
     "url": "https://bit.ly/3P4sUl8",
     "description": "Sociology, housing inequality research, poverty research",
     "field": "Sociology, housing inequality research, poverty research",
-    "scraped_date": "2026-11-19T06:53:59.177635",
+    "scraped_date": "2026-11-20T06:43:58.899864",
     "is_active": 1,
     "id": 133
   },
@@ -1603,7 +1603,7 @@
     "url": "https://bit.ly/4cHf9Rn",
     "description": "Psychology; politics; natural language models",
     "field": "Psychology; politics; natural language models",
-    "scraped_date": "2026-11-19T06:53:59.177746",
+    "scraped_date": "2026-11-20T06:43:58.899963",
     "is_active": 1,
     "id": 134
   },
@@ -1615,7 +1615,7 @@
     "url": "https://bit.ly/48xaoIT",
     "description": "PK-12 and higher education policy topics",
     "field": "PK-12 and higher education policy topics",
-    "scraped_date": "2026-11-19T06:53:59.177824",
+    "scraped_date": "2026-11-20T06:43:58.900042",
     "is_active": 1,
     "id": 135
   },
@@ -1627,7 +1627,7 @@
     "url": "https://bit.ly/3OMpFP4",
     "description": "Energy/Environmental, Public Finance, Trade, and Health economics",
     "field": "Energy/Environmental, Public Finance, Trade, and Health economics",
-    "scraped_date": "2026-11-19T06:53:59.177916",
+    "scraped_date": "2026-11-20T06:43:58.900136",
     "is_active": 1,
     "id": 136
   },
@@ -1639,7 +1639,7 @@
     "url": "https://bit.ly/47TFeel",
     "description": "Political Economy, Causal Inference, Quantitative Methods",
     "field": "Political Economy, Causal Inference, Quantitative Methods",
-    "scraped_date": "2026-11-19T06:53:59.178016",
+    "scraped_date": "2026-11-20T06:43:58.900231",
     "is_active": 1,
     "id": 137
   },
@@ -1651,7 +1651,7 @@
     "url": "https://bit.ly/4vkASqC",
     "description": "Education, behavioral economics, experimental economics",
     "field": "Education, behavioral economics, experimental economics",
-    "scraped_date": "2026-11-19T06:53:59.178109",
+    "scraped_date": "2026-11-20T06:43:58.900322",
     "is_active": 1,
     "id": 138
   },
@@ -1663,7 +1663,7 @@
     "url": "https://bit.ly/4smJkmH",
     "description": "Communication, Economics, Political Science, Psychology, Sociology",
     "field": "Communication, Economics, Political Science, Psychology, Sociology",
-    "scraped_date": "2026-11-19T06:53:59.178187",
+    "scraped_date": "2026-11-20T06:43:58.900416",
     "is_active": 1,
     "id": 139
   },
@@ -1675,7 +1675,7 @@
     "url": "https://bit.ly/4tvq2fO",
     "description": "Sociology of work and organizations",
     "field": "Sociology of work and organizations",
-    "scraped_date": "2026-11-19T06:53:59.178255",
+    "scraped_date": "2026-11-20T06:43:58.900490",
     "is_active": 1,
     "id": 140
   },
@@ -1687,7 +1687,7 @@
     "url": "https://bit.ly/4sUKsi8",
     "description": "Behavioral economics and finance, intersecting with topics in applied microeconomics, macro-finance, labor, and health.",
     "field": "Behavioral economics and finance, intersecting with topics in applied microeconomics, macro-finance, labor, and health.",
-    "scraped_date": "2026-11-19T06:53:59.178333",
+    "scraped_date": "2026-11-20T06:43:58.900570",
     "is_active": 1,
     "id": 141
   },
@@ -1699,7 +1699,7 @@
     "url": "https://bit.ly/3PvFYQq",
     "description": "Health, Public Policy, Statistics and Econometrics, Health Decision Science, Disease Simulation Modeling",
     "field": "Health, Public Policy, Statistics and Econometrics, Health Decision Science, Disease Simulation Modeling",
-    "scraped_date": "2026-11-19T06:53:59.178400",
+    "scraped_date": "2026-11-20T06:43:58.900640",
     "is_active": 1,
     "id": 142
   },
@@ -1711,7 +1711,7 @@
     "url": "https://bit.ly/47MWHG6",
     "description": "Applied economics",
     "field": "Applied economics",
-    "scraped_date": "2026-11-19T06:53:59.178500",
+    "scraped_date": "2026-11-20T06:43:58.900739",
     "is_active": 1,
     "id": 143
   },
@@ -1723,7 +1723,7 @@
     "url": "https://bit.ly/3WAC5tN",
     "description": "Asset pricing, household and consumer finance, behavioral economics, macroeconomics, and micro-econometrics",
     "field": "Asset pricing, household and consumer finance, behavioral economics, macroeconomics, and micro-econometrics",
-    "scraped_date": "2026-11-19T06:53:59.178595",
+    "scraped_date": "2026-11-20T06:43:58.900833",
     "is_active": 1,
     "id": 144
   },
@@ -1735,7 +1735,7 @@
     "url": "https://bit.ly/4rBEoe4",
     "description": "Quantitative Social Science, Organizational Behavior, Psychology, Management",
     "field": "Quantitative Social Science, Organizational Behavior, Psychology, Management",
-    "scraped_date": "2026-11-19T06:53:59.178664",
+    "scraped_date": "2026-11-20T06:43:58.900904",
     "is_active": 1,
     "id": 145
   },
@@ -1747,7 +1747,7 @@
     "url": "https://bit.ly/43aPcWm",
     "description": "Fintech, cryptocurrencies and blockchain, financial intermediation, and consumer finance",
     "field": "Fintech, cryptocurrencies and blockchain, financial intermediation, and consumer finance",
-    "scraped_date": "2026-11-19T06:53:59.178773",
+    "scraped_date": "2026-11-20T06:43:58.900997",
     "is_active": 1,
     "id": 146
   },
@@ -1759,7 +1759,7 @@
     "url": "https://bit.ly/485Jebs",
     "description": "Behavioral Science, Health",
     "field": "Behavioral Science, Health",
-    "scraped_date": "2026-11-19T06:53:59.178866",
+    "scraped_date": "2026-11-20T06:43:58.901092",
     "is_active": 1,
     "id": 147
   },
@@ -1771,7 +1771,7 @@
     "url": "https://bit.ly/4866JkL",
     "description": "Social Psychology (social identities, perceptions, and behavior, with both adult and child populations)",
     "field": "Social Psychology (social identities, perceptions, and behavior, with both adult and child populations)",
-    "scraped_date": "2026-11-19T06:53:59.178962",
+    "scraped_date": "2026-11-20T06:43:58.901196",
     "is_active": 1,
     "id": 148
   },
@@ -1783,7 +1783,7 @@
     "url": "https://bit.ly/4bMFmgP",
     "description": "Macroeconomics and Labour Economics",
     "field": "Macroeconomics and Labour Economics",
-    "scraped_date": "2026-11-19T06:53:59.179056",
+    "scraped_date": "2026-11-20T06:43:58.901292",
     "is_active": 1,
     "id": 149
   },
@@ -1795,7 +1795,7 @@
     "url": "https://bit.ly/4sjW7H3",
     "description": "Applied political economy at the intersection of politics and economics, on topics of state surveillance and political violence.",
     "field": "Applied political economy at the intersection of politics and economics, on topics of state surveillance and political violence.",
-    "scraped_date": "2026-11-19T06:53:59.179151",
+    "scraped_date": "2026-11-20T06:43:58.901404",
     "is_active": 1,
     "id": 150
   },
@@ -1807,7 +1807,7 @@
     "url": "https://bit.ly/4bxS0A1",
     "description": "Marketing, economics, operations, management",
     "field": "Marketing, economics, operations, management",
-    "scraped_date": "2026-11-19T06:53:59.179226",
+    "scraped_date": "2026-11-20T06:43:58.901481",
     "is_active": 1,
     "id": 151
   },
@@ -1819,7 +1819,7 @@
     "url": "https://bit.ly/47ImRJ3",
     "description": "Income Inequality, Public Policy, Economic Mobility",
     "field": "Income Inequality, Public Policy, Economic Mobility",
-    "scraped_date": "2026-11-19T06:53:59.179321",
+    "scraped_date": "2026-11-20T06:43:58.901577",
     "is_active": 1,
     "id": 152
   },
@@ -1831,7 +1831,7 @@
     "url": "https://bit.ly/4bzakZO",
     "description": "Political Economy, Development, Economic History",
     "field": "Political Economy, Development, Economic History",
-    "scraped_date": "2026-11-19T06:53:59.179392",
+    "scraped_date": "2026-11-20T06:43:58.901649",
     "is_active": 1,
     "id": 153
   },
@@ -1843,7 +1843,7 @@
     "url": "https://bit.ly/4sapc7Q",
     "description": "Finance, Accounting",
     "field": "Finance, Accounting",
-    "scraped_date": "2026-11-19T06:53:59.179463",
+    "scraped_date": "2026-11-20T06:43:58.901721",
     "is_active": 1,
     "id": 154
   },
@@ -1855,7 +1855,7 @@
     "url": "https://bit.ly/3NCH5x5",
     "description": "N/A",
     "field": "N/A",
-    "scraped_date": "2026-11-19T06:53:59.179558",
+    "scraped_date": "2026-11-20T06:43:58.901814",
     "is_active": 1,
     "id": 155
   },
@@ -1867,7 +1867,7 @@
     "url": "https://bit.ly/4ruEYcy",
     "description": "Marketing, Economics, Management, Operations",
     "field": "Marketing, Economics, Management, Operations",
-    "scraped_date": "2026-11-19T06:53:59.179654",
+    "scraped_date": "2026-11-20T06:43:58.901912",
     "is_active": 1,
     "id": 156
   },
@@ -1879,7 +1879,7 @@
     "url": "https://bit.ly/40YnzOu",
     "description": "Labor, Crime, Housing",
     "field": "Labor, Crime, Housing",
-    "scraped_date": "2026-11-19T06:53:59.179764",
+    "scraped_date": "2026-11-20T06:43:58.902008",
     "is_active": 1,
     "id": 157
   },
@@ -1891,7 +1891,7 @@
     "url": "https://bit.ly/4spOVsD",
     "description": "Applied microeconomics focusing on health care, industrial organization, productivity, and organizational economics",
     "field": "Applied microeconomics focusing on health care, industrial organization, productivity, and organizational economics",
-    "scraped_date": "2026-11-19T06:53:59.179864",
+    "scraped_date": "2026-11-20T06:43:58.902108",
     "is_active": 1,
     "id": 158
   },
@@ -1903,7 +1903,7 @@
     "url": "https://bit.ly/4rciaxY",
     "description": "Quantitative political science",
     "field": "Quantitative political science",
-    "scraped_date": "2026-11-19T06:53:59.179941",
+    "scraped_date": "2026-11-20T06:43:58.902188",
     "is_active": 1,
     "id": 159
   },
@@ -1915,7 +1915,7 @@
     "url": "https://bit.ly/46DTuar",
     "description": "Public economics, urban economics, labor economics, environmental economics, law and economics, and political economy",
     "field": "Public economics, urban economics, labor economics, environmental economics, law and economics, and political economy",
-    "scraped_date": "2026-11-19T06:53:59.180015",
+    "scraped_date": "2026-11-20T06:43:58.902264",
     "is_active": 1,
     "id": 160
   },
@@ -1927,7 +1927,7 @@
     "url": "https://bit.ly/4rjlRlH",
     "description": "Finance (environmental, development, macro)",
     "field": "Finance (environmental, development, macro)",
-    "scraped_date": "2026-11-19T06:53:59.180088",
+    "scraped_date": "2026-11-20T06:43:58.902340",
     "is_active": 1,
     "id": 161
   },
@@ -1939,7 +1939,7 @@
     "url": "https://bit.ly/4rY7VOY",
     "description": "The role involves close collaboration on new and ongoing research projects. Research areas may include, but are not limited to:",
     "field": "The role involves close collaboration on new and ongoing research projects. Research areas may include, but are not limited to:",
-    "scraped_date": "2026-11-19T06:53:59.180190",
+    "scraped_date": "2026-11-20T06:43:58.902460",
     "is_active": 1,
     "id": 162
   },
@@ -1951,7 +1951,7 @@
     "url": "https://bit.ly/40nm5gs",
     "description": "Climate change; development economics; agricultural labor and markets",
     "field": "Climate change; development economics; agricultural labor and markets",
-    "scraped_date": "2026-11-19T06:53:59.180286",
+    "scraped_date": "2026-11-20T06:43:58.902561",
     "is_active": 1,
     "id": 163
   },
@@ -1963,7 +1963,7 @@
     "url": "https://bit.ly/4qHxClq",
     "description": "Political Economy, Economic History, Cultural Economics",
     "field": "Political Economy, Economic History, Cultural Economics",
-    "scraped_date": "2026-11-19T06:53:59.180467",
+    "scraped_date": "2026-11-20T06:43:58.902775",
     "is_active": 1,
     "id": 164
   },
@@ -1975,7 +1975,7 @@
     "url": "https://bit.ly/3OlHJiD",
     "description": "Economics opportunity, labor market outcomes",
     "field": "Economics opportunity, labor market outcomes",
-    "scraped_date": "2026-11-19T06:53:59.180539",
+    "scraped_date": "2026-11-20T06:43:58.902850",
     "is_active": 1,
     "id": 165
   },
@@ -1987,7 +1987,7 @@
     "url": "https://bit.ly/4tDNFDG",
     "description": "International Trade, Industrial Organization, Urban/Spatial Economics",
     "field": "International Trade, Industrial Organization, Urban/Spatial Economics",
-    "scraped_date": "2026-11-19T06:53:59.180635",
+    "scraped_date": "2026-11-20T06:43:58.902950",
     "is_active": 1,
     "id": 166
   },
@@ -1999,7 +1999,7 @@
     "url": "https://bit.ly/4rh3Fd5",
     "description": "Microeconomics, Behavioral Economics, Experimental Economics",
     "field": "Microeconomics, Behavioral Economics, Experimental Economics",
-    "scraped_date": "2026-11-19T06:53:59.180748",
+    "scraped_date": "2026-11-20T06:43:58.903048",
     "is_active": 1,
     "id": 167
   },
@@ -2011,7 +2011,7 @@
     "url": "https://bit.ly/4rFGgSr",
     "description": "Behavioral Science, Marketing, Organizational Behavior",
     "field": "Behavioral Science, Marketing, Organizational Behavior",
-    "scraped_date": "2026-11-19T06:53:59.180941",
+    "scraped_date": "2026-11-20T06:43:58.903241",
     "is_active": 1,
     "id": 168
   },
@@ -2023,7 +2023,7 @@
     "url": "https://bit.ly/3OnnZLn",
     "description": "Behavioral Economics, Public Economics",
     "field": "Behavioral Economics, Public Economics",
-    "scraped_date": "2026-11-19T06:53:59.181041",
+    "scraped_date": "2026-11-20T06:43:58.903349",
     "is_active": 1,
     "id": 169
   },
@@ -2035,7 +2035,7 @@
     "url": "https://bit.ly/4a4S5Mc",
     "description": "Data Science and Tech Innovation; Public Economics; Public Policy; Labor; Econometrics and Statistics",
     "field": "Data Science and Tech Innovation; Public Economics; Public Policy; Labor; Econometrics and Statistics",
-    "scraped_date": "2026-11-19T06:53:59.181139",
+    "scraped_date": "2026-11-20T06:43:58.903485",
     "is_active": 1,
     "id": 170
   },
@@ -2047,7 +2047,7 @@
     "url": "https://bit.ly/4ksG9aG",
     "description": "Research topics cover a full range of public policy issues in economics, foreign policy, development, governance and metropolitan policy.",
     "field": "Research topics cover a full range of public policy issues in economics, foreign policy, development, governance and metropolitan policy.",
-    "scraped_date": "2026-11-19T06:53:59.181235",
+    "scraped_date": "2026-11-20T06:43:58.903595",
     "is_active": 1,
     "id": 171
   }
